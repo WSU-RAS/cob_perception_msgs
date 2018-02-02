@@ -35,7 +35,6 @@ add_message_files(
     Mask.msg
     Rect.msg
     Skeleton.msg
-    Object.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
